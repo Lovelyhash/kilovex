@@ -1,0 +1,2 @@
+# kilovex
+kilovex testnet
